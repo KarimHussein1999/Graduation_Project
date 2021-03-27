@@ -1,0 +1,6 @@
+GPIO.c:14:6:GPIO_Init	16	static
+GPIO.c:37:6:GPIO_PinDirection	16	static
+GPIO.c:570:6:GPIO_PinWrite	16	static
+GPIO.c:618:15:GPIO_PinRead	16	static
+GPIO.c:638:6:GPIO_PortWrite	16	static
+GPIO.c:662:16:GPIO_PortRead	16	static

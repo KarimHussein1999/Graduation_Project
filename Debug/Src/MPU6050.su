@@ -1,0 +1,6 @@
+MPU6050.c:19:6:MPU6050_Init	8	static
+MPU6050.c:26:6:MPU6050_Read_Request	16	static
+MPU6050.c:37:6:MPU6050_Write_Request	16	static
+MPU6050.c:50:15:MPU6050_Read	4	static
+MPU6050.c:58:6:I2C_Tx	8	static
+MPU6050.c:81:6:I2C_Rx	8	static

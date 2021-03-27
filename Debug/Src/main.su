@@ -1,0 +1,6 @@
+main.c:68:5:main	8	static
+main.c:92:6:Free_Driving_Mode	8	static
+main.c:116:6:ACC	8	static
+main.c:294:6:APS	16	static
+main.c:407:6:LFS	8	static
+main.c:429:15:Car_Velocity	16	static

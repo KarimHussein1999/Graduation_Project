@@ -1,0 +1,2 @@
+DC_MOTOR.c:30:6:Car_Init	8	static
+DC_MOTOR.c:41:6:Car_Drive	16	static

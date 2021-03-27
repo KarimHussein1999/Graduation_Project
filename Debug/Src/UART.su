@@ -1,0 +1,10 @@
+UART.c:29:6:UART_Init	16	static
+UART.c:83:6:UART_Send	16	static
+UART.c:111:15:UART_Recieve	16	static
+UART.c:151:6:UART_Direction	16	static
+UART.c:202:6:UART_Enable	16	static
+UART.c:217:6:UART_Disable	16	static
+UART.c:233:6:UART_ActivateInterrupt	16	static
+UART.c:260:6:USART1_IRQHandler	4	static
+UART.c:273:6:USART2_IRQHandler	4	static
+UART.c:286:6:USART3_IRQHandler	4	static

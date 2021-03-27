@@ -1,0 +1,5 @@
+RotarySwitchEncoder.c:54:6:RotarySwitchEncoder_Init	8	static
+RotarySwitchEncoder.c:70:16:RotarySwitchEncoder_GetRPM	4	static
+RotarySwitchEncoder.c:77:6:RotarySwitchEncoder_Event	8	static
+RotarySwitchEncoder.c:85:6:RotarySwitchEncoder_Time	16	static
+RotarySwitchEncoder.c:107:16:Car_velocity	4	static

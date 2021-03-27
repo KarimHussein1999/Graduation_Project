@@ -1,0 +1,4 @@
+Ultrasonic.c:38:6:Ultrasonic_Init	16	static
+Ultrasonic.c:126:6:Ultrasonic_Start	32	static,ignoring_inline_asm
+Ultrasonic.c:191:16:Ultrasonic_Time	24	static
+Ultrasonic.c:214:6:Ultrasonic	16	static

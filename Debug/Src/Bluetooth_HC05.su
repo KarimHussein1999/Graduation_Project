@@ -1,0 +1,3 @@
+Bluetooth_HC05.c:19:6:Bluetooth_Init	8	static
+Bluetooth_HC05.c:27:6:Bluetooth_Send	16	static
+Bluetooth_HC05.c:31:15:Bluetooth_Read	8	static
